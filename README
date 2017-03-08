@@ -1,0 +1,3 @@
+-== BUILD & TEST ==--
+
+$ sbt test
